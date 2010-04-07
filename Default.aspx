@@ -4,12 +4,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Sukruuuu</title>
+    <title>Sanal AVM</title>
 </head>
 <body>
+<p>Birim senin aq</p>
     <form id="form1" runat="server">
     <div>
-    
     </div>
     </form>
 </body>
